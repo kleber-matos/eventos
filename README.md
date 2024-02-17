@@ -1,8 +1,7 @@
-# React + Vite
+<h1>Manipulando eventos 💻</h1>
+<br/>
+<h2>📝 Sobre</h2>
+<h3>Exercícios utilizando eventos para fins de estudos em aula.</h3>
+<h2>🚀 Tecnologia</h2>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
