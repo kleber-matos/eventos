@@ -7,7 +7,7 @@ const App = () => {
   const [count, setCount] = useState(0);
 
   //------------------ onChange   ------------------
-  // é utilizado para que seja realizada determinada ação após alguma mudança
+  // O evento onchange é acionado quando o valor de um elemento HTML, geralmente um campo de formulário, é alterado. 
   const [valor, setValor] = useState("");
   function captura(evento) {
     setValor(evento.target.value);
